@@ -1,4 +1,5 @@
-# HolyUtils: Unix Commands in HolyC
+# 👼 HolyUtils: Unix Commands in HolyC
+***(Just a meme)***
 
 A collection of recreated Unix commands implemented in HolyC. This project aims to provide familiar Unix utilities for TempleOS environments.
 
